@@ -1,0 +1,8 @@
+flask
+pyngrok
+tesseract-ocr
+pytesseract
+regex
+Pillow
+Flask-Cors
+io
